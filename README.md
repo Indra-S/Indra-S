@@ -1,4 +1,4 @@
-![logo](https://images8.alphacoders.com/115/1156488.png)
+<!-- ![logo]() -->
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/indra-shekhar/" target="_blank"> Indra Shekhar </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A2&width=435&lines=A+passionate+Software+Engineer" /> </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
